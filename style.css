@@ -1,0 +1,94 @@
+.Nav-bar {
+    overflow: hidden;
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.Nav-bar a {
+    float: left;
+    color: rgb(246, 4, 4);
+    text-align: center;
+    padding: 14px 90px;
+    text-decoration: none;
+}
+
+.Nav-bar a:hover {
+    background-color: aqua;
+    color: red;
+
+}
+
+.Nav-bar a.active {
+    
+    color: rgb(196, 12, 12);
+}
+
+.Pic {
+    align-items: center;
+    justify-content: center;
+    padding-left: 50%;
+    padding-top: 40px;
+    padding-right: 50%;
+}
+
+.img-container {
+    justify-content: center;
+    display: flex;
+}
+.Sign-up {
+    background-color: rgb(185, 255, 185);
+}
+
+.left-section {
+    width: 30%;
+    
+}
+
+.main-body {
+    display: flex;
+    flex-direction: row;
+    margin: 70px;
+    height: 1000px;
+}
+
+.right-section {
+    width: 70%;
+    
+}
+
+.main-body {
+position: relative;
+}
+    
+.main-text {
+    overflow-wrap: break-word;
+    margin-top: 200px;
+}
+
+.Small-text {
+    font-size: larger;
+    color: white;
+    text-align: center;
+}
+
+.Big-text  {
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    height: 500px;
+    
+    
+}
+
+
+body {
+    background-image: url(Asset/matthew-henry-VviFtDJakYk-unsplash.jpg);
+    background-size: contain;
+    backgrou
+    background-image: url();
+}
